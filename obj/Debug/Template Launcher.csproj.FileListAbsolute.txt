@@ -1,0 +1,17 @@
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Template Launcher.exe.config
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Template Launcher.exe
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Template Launcher.pdb
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\MetroSuite 2.0.dll
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Siticone.UI.dll
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.csproj.AssemblyReference.cache
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template_Launcher.Form1.resources
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template_Launcher.Properties.Resources.resources
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.csproj.GenerateResource.cache
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.csproj.CoreCompileInputs.cache
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.csproj.CopyComplete
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.exe
+C:\Users\antol\source\repos\XPS Launcher\XPS Launcher\obj\Debug\Template Launcher.pdb
